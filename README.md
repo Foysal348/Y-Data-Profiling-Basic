@@ -32,6 +32,7 @@ v.Zero / infinite values
 
 *3. Correlations and Interactions*
 Visual correlation heatmaps help detect multicollinearity.
+
 i.Correlations
 <img width="673" height="505" alt="image" src="https://github.com/user-attachments/assets/80dd1bee-2c9d-4206-ac32-ee0b3e7a0bb2" />
 
@@ -56,6 +57,7 @@ ii.Skewed distributions
 iii.Constant or quasi-constant columns
 
 iv.Highly correlated variables
+
 *Alerts & Warnings*
 <img width="799" height="717" alt="image" src="https://github.com/user-attachments/assets/10aaedfc-fe0e-448e-8f98-7c6e2fb0db59" />
 
